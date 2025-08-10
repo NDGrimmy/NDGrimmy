@@ -1,12 +1,4 @@
-
-   /\_/\        ✧      ★       ✦       ☆
-  ( o.o )    🌙        ✦      ★     ✧
-   > ^ <         ☆       ✧         ★
-  /     \    🌌        ✦       ☆
- (       )  ✧     ★        ✦
-  \     /       ☆       ✧        ★
-   '---'   🌲    🌲     🌲     🌲
-
+I need a coffee ☕ 
 
 <!--
 **NDGrimmy/NDGrimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
