@@ -2,7 +2,6 @@
  /\_/\        ✧      ☆        ✦         ★     ☆
 ( o.o )  🌙  under the quiet night sky     ✧     ★
  > ^ <      ✦      ☆       ✧       ★       ✦     ☆
-~~~~~~~~~🌲~~🌲~~~~🏙~~~🌲~~~~🌲~~~~~~~~~~~~
 
 <!--
 **NDGrimmy/NDGrimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
